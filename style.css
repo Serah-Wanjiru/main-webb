@@ -1,3 +1,14 @@
+.body{
+    background-color: rgb(194, 187, 187);
+}
+.mummy{
+    margin-top: 10px;
+    float: left;
+    height: 600px;
+    width: 250px;
+    background-color: rgb(241,40,90);
+    border-radius: 1550px/ 0px 1250px 4550px 1500px;
+}
 
 .serah{
     width: 50%;
@@ -50,6 +61,10 @@ ul a{
 .ani{
     background-image: linear-gradient(white);
 }
+.ani{
+    width: 20%;
+    height: 20%;
+}
 .hey{
     display: flex; 
     
@@ -59,7 +74,7 @@ ul a{
      height: 150px;
  }
  .R{
-    margin-left: 10%;
+    margin-left: 4%;
    
  } 
  .R{
@@ -71,7 +86,7 @@ ul a{
     border: solid;
  }  
 .S{
-    margin-left: 10%;
+    margin-left: 4%;
    
 }
 .S{
@@ -84,12 +99,12 @@ ul a{
     border: solid;
 }
 .a{
-    margin-left: 10%; 
+    margin-left: 4%; 
    
   
 }
 .a{
-   padding: 22px 12px;
+   padding: 10px 12px;
    background-color: white;
    border-radius: 1em;
 
@@ -110,15 +125,16 @@ ul a{
 
 }
 .V{
-    width: 100%;
-    height: 100%;
+    width: 80%;
+    height: 80%;
 }
 .c{
     height: 20%;
     width: 20%;
 }
 .U {
-    margin-left: 10%;
+    margin-left: 4%;
+   
     
 
 }
@@ -143,8 +159,10 @@ ul a{
 }
 .very{
     display: flex;
-    justify-content: space-between;
-    border: solid;
+    
+border: solid;
+width: 80%;
+height: 80%;
     background-color: rgb(246,102,102);
     position: relative;
   
@@ -165,5 +183,20 @@ ul a{
 .four{
     color: #f77071;
 
+
+}
+.one{
+    border-color:#f77071 ;
+}
+.SPAN{
+    border-radius: 50%;
+    border-color:#f77071 ;
+    background-color: #f77071;
+    width: 50%;
+    height: 50%;
 }
 
+@media only screen and(max-width:900px){
+    
+    
+}
